@@ -3,5 +3,6 @@ class Sample:
         self.age=age
     h=Sample('10')
     print(h.age)
+    
 
          
