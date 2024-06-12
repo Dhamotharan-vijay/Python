@@ -38,7 +38,7 @@ name2="tharan"
 print(f"hello {name.capitalize()}"+ " "+'{}'.format(name2))
 
 #print("i have completed {1} {0}".format("engineering","mechanical"))
-
+#gh
 '''import math
 
 a=10
